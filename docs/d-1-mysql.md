@@ -2,10 +2,6 @@
 
 ## 4.2 MySQL
 
-> [JavaGuide](https://javaguide.cn/) ：「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7965efc059b841aeb377e3b3e1e1005c~tplv-k3u1fbpfcp-zoom-1.image)
-
 ### MySQL 基础
 
 #### 关系型数据库介绍
@@ -334,9 +330,8 @@ mysql> SELECT @@tx_isolation;
 
 关于 MySQL 事务隔离级别的详细介绍，可以看看我写的这篇文章：[MySQL 事务隔离级别详解](https://javaguide.cn/database/mysql/transaction-isolation-level.html)。
 
-<div align="center">   
-    <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/gongzhonghaoxuanchuan.png" style="margin: 0 auto;" />  
-</div>
+
+
 
 ### MySQL 锁
 
@@ -470,6 +465,5 @@ DELETE...
 - 详解 MySQL InnoDB 中意向锁的作用：https://juejin.cn/post/6844903666332368909
 - 在数据库中不可重复读和幻读到底应该怎么分？：https://www.zhihu.com/question/392569386
 
-<div align="center">   
-    <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/gongzhonghaoxuanchuan.png" style="margin: 0 auto;" />  
-</div>
+
+

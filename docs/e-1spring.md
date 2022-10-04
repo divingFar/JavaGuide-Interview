@@ -4,19 +4,8 @@
 
 # 5. 常用框架
 
-> [JavaGuide](https://javaguide.cn/) ：「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
-<div align="center">
-    <p>
-        <a href="https://www.yuque.com/docs/share/8a30ffb5-83f3-40f9-baf9-38de68b906dc">
-            <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/xingqiu/xingqiu.png" style="margin: 0 auto; width: 850px;" />
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/Snailclimb/JavaGuide-Interview">Github</a> |
-        <a href="https://gitee.com/SnailClimb/JavaGuide-Interview">Gitee</a>
-    </p>  
-</div>
+
 
 ## 5.1 Spring
 
@@ -31,12 +20,6 @@ Spring 是一款开源的轻量级 Java 开发框架，旨在提高开发人员�
 ![](https://img-blog.csdnimg.cn/38ef122122de4375abcd27c3de8f60b4.png)
 
 Spring 最核心的思想就是不重新造轮子，开箱即用，提高开发效率。
-
-Spring 翻译过来就是春天的意思，可见其目标和使命就是为 Java 程序员带来春天啊！感动！
-
-🤐 多提一嘴 ： **语言的流行通常需要一个杀手级的应用，Spring 就是 Java 生态的一个杀手级的应用框架。**
-
-Spring 提供的核心功能主要是 IoC 和 AOP。学习 Spring ，一定要把 IoC 和 AOP 的核心思想搞懂！
 
 - Spring 官网：<https://spring.io/>
 - Github 地址： https://github.com/spring-projects/spring-framework
